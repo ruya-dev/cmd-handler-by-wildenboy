@@ -1,0 +1,4 @@
+(client.json)==require("Command-handler")
+Let.require("Discord.js")
+.Message("contain-plshelp-Reply")
+.message.die
